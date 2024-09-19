@@ -347,6 +347,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces, and 
                         <li><a href="security/privilege.md">Privilege Information</a></li>
                         <li><a href="security/privacy-related-permissions.md">Privacy-related Permissions</a></li>
                         <li><a href="security/tee-client.md">TEE Communication</a></li>
+                        <li><a href="security/webauthn.md">Web Authentication</a></li>
                     </ul>
                 </div>
             </div>

@@ -25,6 +25,11 @@ You can use the following security features in your .NET applications:
 
     You can create security-aware applications to manage device policies. In enterprise settings, you can provide rich control for IT administrators over employee devices.
 
+-   [Web Authentication](webauthn.md)
+
+    You can create and use strong, attested, scoped, public key-based credentials by web applications,
+    for the purpose of strongly authenticating users
+
 ## Related information
 * Dependencies
   -   Tizen 4.0 and Higher

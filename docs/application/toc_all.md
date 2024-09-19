@@ -188,6 +188,7 @@
 #### [Privacy-related Permissions](/application/dotnet/guides/security/privacy-related-permissions.md)
 #### [TEE Communication](/application/dotnet/guides/security/tee-client.md)
 #### [Device Policy Management](/application/dotnet/guides/security/dpm.md)
+#### [Web Authentication](/application/dotnet/guides/security/webauthn.md)
 
 ### Sensors
 #### [Overview](/application/dotnet/guides/sensors/overview.md)
